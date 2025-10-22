@@ -1,0 +1,59 @@
+[01:31:26] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[01:31:26] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.8
+[01:31:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Minecraft-Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:31:36] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:31:38] [main/INFO]: No existing world data, creating new world
+[01:31:39] [main/INFO]: Loaded 1407 recipes
+[01:31:39] [main/INFO]: Loaded 1520 advancements
+[01:31:39] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:31:39] [Server thread/INFO]: Loading properties
+[01:31:39] [Server thread/INFO]: Default game type: SURVIVAL
+[01:31:39] [Server thread/INFO]: Generating keypair
+[01:31:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:31:39] [Server thread/INFO]: Using epoll channel type
+[01:31:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:31:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:31:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:31:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:31:40] [Server thread/INFO]: Preparing level "world"
+[01:31:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:31:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:59] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:31:59] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:32:00] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:32:00] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[01:32:01] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[01:32:01] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[01:32:02] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[01:32:02] [Server thread/INFO]: Time elapsed: 9236 ms
+[01:32:02] [Server thread/INFO]: Done (22.520s)! For help, type "help"
+[01:33:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:35:52] [Server thread/INFO]: SikJa[/127.122.147.153:46965] logged in with entity id 37 at (0.5, 89.0, 104.5)
+[01:35:52] [Server thread/INFO]: SikJa joined the game
+[01:35:55] [Server thread/INFO]: [SikJa: Set own game mode to Spectator Mode]
+[01:36:16] [Server thread/INFO]: [SikJa: Set own game mode to Survival Mode]
+[01:36:18] [Server thread/INFO]: [SikJa: Set own game mode to Spectator Mode]
+[01:36:32] [Server thread/INFO]: [SikJa: Set own game mode to Survival Mode]
+[01:38:05] [Server thread/INFO]: SikJa has made the advancement [Stone Age]
+[01:38:22] [Server thread/INFO]: SikJa has made the advancement [Getting an Upgrade]
+[01:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[01:44:19] [Server thread/INFO]: SikJa has made the advancement [Monster Hunter]
+[01:45:57] [Server thread/INFO]: SikJa has made the advancement [Sweet Dreams]
+[01:52:16] [Server thread/INFO]: SikJa lost connection: Disconnected
+[01:52:16] [Server thread/INFO]: SikJa left the game
+[01:53:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
